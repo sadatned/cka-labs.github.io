@@ -12,10 +12,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
-# CKA Lab - Cluster Create & Upgrade
-
-
-## Objective
+# Objective:
 
 By the end of this tutorial, you will:
 1. Use `kubeadm` to install a basic cluster
